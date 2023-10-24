@@ -68,7 +68,14 @@ time {
       border: 2px solid white;
       box-shadow: 2px 2px 8px rgba(0,0,0,.2);
 }
+.hearticon {
+ display: grid;
+width: 24px;
+height: 24px;
+align-self: center;
+text-align: center;
 
+}
 #info {
       margin-top: 2.6rem;
 }
