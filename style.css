@@ -71,6 +71,10 @@ time {
 .hearticon {
 width: 24px;
 height: 24px;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 #info {
       margin-top: 2.6rem;
@@ -107,7 +111,7 @@ footer {
       font-style: italic;
       grid-column: span 3;
       text-align: center;
-      font-size: 1.3rem;
+      font-size: 1.1rem;
       font-weight: lighter;
       margin-top: 1.2rem;
 }
