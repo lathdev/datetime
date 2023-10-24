@@ -65,6 +65,7 @@ time {
       width: 160px;
       height: 160px;
       border-radius: 50%;
+      border: 1px solid white;
       box-shadow: 2px 2px 8px rgba(0,0,0,.2);
 }
 
@@ -84,6 +85,7 @@ time {
 }
 
 anni {
+      color: white;
       font-size: 16px;
       letter-spacing: 0.2px;
 }
