@@ -3,7 +3,7 @@ html, body {
 background: linear-gradient(0deg, rgba(223,178,221,1) 0%, rgba(255,255,255,1) 100%);
       margin: 0;
       padding: 0;
-      height: 100%;
+      
 }
 
 img {max-width: 100%;}
@@ -122,8 +122,15 @@ footer {
       opacity: .4;
 }
 
-
-
+#mask {
+      background-image: linear-gradient(to top, #6d44cc5d 0%, #f09cd880 100%);
+      opacity: .42;
+      width: 100vw;
+      height: 100vh;
+      position: fixed;
+      top: 0;
+      left: 0;
+}
 @media (max-width: 992px) {
       #wrapper {
             grid-column: span 12;
