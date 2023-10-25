@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-      font-weight: lighter;
+      font-weight: normal;
       grid-column: span 3;
       text-align: center;
       color: #ec407a;
